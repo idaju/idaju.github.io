@@ -1,1 +1,0 @@
-# idaju.github.io

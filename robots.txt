@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /posts/
+Disallow: /about/
+Disallow: /links/
+Disallow: /page/
+Disallow: /archive/
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /series/
+Disallow: /gallery/
+Disallow: /images/
+Disallow: /css/
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /favicon/
+Disallow: /hitokoto/
+Disallow: /index.html
+
+Sitemap: https://idaju.github.io/sitemap.xml
